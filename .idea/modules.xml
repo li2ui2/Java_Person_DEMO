@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank_InnerClass/Bank_InnerClass.iml" filepath="$PROJECT_DIR$/Bank_InnerClass/Bank_InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassCast/ClassCast.iml" filepath="$PROJECT_DIR$/ClassCast/ClassCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassRelationDemo/ClassRelationDemo.iml" filepath="$PROJECT_DIR$/ClassRelationDemo/ClassRelationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedBox/LinkedBox.iml" filepath="$PROJECT_DIR$/LinkedBox/LinkedBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyEnum/MyEnum.iml" filepath="$PROJECT_DIR$/MyEnum/MyEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybaits_XML/Mybaits_XML.iml" filepath="$PROJECT_DIR$/Mybaits_XML/Mybaits_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" filepath="$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonProject/SingletonProject.iml" filepath="$PROJECT_DIR$/SingletonProject/SingletonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAbstract/TestAbstract.iml" filepath="$PROJECT_DIR$/TestAbstract/TestAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilClass/UtilClass.iml" filepath="$PROJECT_DIR$/UtilClass/UtilClass.iml" />
+    </modules>
+  </component>
+</project>
