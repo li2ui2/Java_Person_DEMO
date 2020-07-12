@@ -2,10 +2,10 @@ package cn.yubai.test;
 
 import cn.yubai.dao.IUserDao;
 import cn.yubai.domain.User;
-import org.apache.ibatis.io.Resources;
-import org.apache.ibatis.session.SqlSession;
-import org.apache.ibatis.session.SqlSessionFactory;
-import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import cn.yubai.mybatis.io.Resources ;
+import cn.yubai.mybatis.sqlsession.SqlSession ;
+import cn.yubai.mybatis.sqlsession.SqlSessionFactory ;
+import cn.yubai.mybatis.sqlsession.SqlSessionFactoryBuilder ;
 
 import java.io.IOException;
 import java.io.InputStream;

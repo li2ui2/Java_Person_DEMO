@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedBox/LinkedBox.iml" filepath="$PROJECT_DIR$/LinkedBox/LinkedBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyEnum/MyEnum.iml" filepath="$PROJECT_DIR$/MyEnum/MyEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybaits_XML/Mybaits_XML.iml" filepath="$PROJECT_DIR$/Mybaits_XML/Mybaits_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_Annotation/Mybatis_Annotation.iml" filepath="$PROJECT_DIR$/Mybatis_Annotation/Mybatis_Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_Dao/Mybatis_Dao.iml" filepath="$PROJECT_DIR$/Mybatis_Dao/Mybatis_Dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis_Design/Mybatis_Design.iml" filepath="$PROJECT_DIR$/Mybatis_Design/Mybatis_Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" filepath="$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonProject/SingletonProject.iml" filepath="$PROJECT_DIR$/SingletonProject/SingletonProject.iml" />

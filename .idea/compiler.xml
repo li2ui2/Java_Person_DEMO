@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Mybatis_Dao" />
         <module name="Mybaits_XML" />
+        <module name="Mybatis_Annotation" />
+        <module name="Mybatis_Design" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Mybaits_XML" target="1.5" />
+      <module name="Mybatis_Annotation" target="1.5" />
+      <module name="Mybatis_Dao" target="6" />
+      <module name="Mybatis_Design" target="6" />
       <module name="mybatis_xml" target="1.5" />
     </bytecodeTargetLevel>
   </component>

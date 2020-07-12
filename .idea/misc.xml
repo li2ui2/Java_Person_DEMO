@@ -7,6 +7,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Mybaits_XML/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis_Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis_Dao/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis_Design/pom.xml" />
       </list>
     </option>
   </component>
