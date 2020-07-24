@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" filepath="$PROJECT_DIR$/RelationshipBetweenClasses/RelationshipBetweenClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonProject/SingletonProject.iml" filepath="$PROJECT_DIR$/SingletonProject/SingletonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAopAdviceTypeXml/SpringAopAdviceTypeXml.iml" filepath="$PROJECT_DIR$/SpringAopAdviceTypeXml/SpringAopAdviceTypeXml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAopAnnotation/SpringAopAnnotation.iml" filepath="$PROJECT_DIR$/SpringAopAnnotation/SpringAopAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAopXml/SpringAopXml.iml" filepath="$PROJECT_DIR$/SpringAopXml/SpringAopXml.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestAbstract/TestAbstract.iml" filepath="$PROJECT_DIR$/TestAbstract/TestAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/UtilClass/UtilClass.iml" filepath="$PROJECT_DIR$/UtilClass/UtilClass.iml" />
     </modules>

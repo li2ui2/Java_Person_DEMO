@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -10,10 +16,21 @@
         <option value="$PROJECT_DIR$/Mybatis_Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis_Dao/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis_Design/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAop/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAdviceType/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAopAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAopXml/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAaopAdviceTypeXml/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAopAdviceXml/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAopAdviceTypeXml/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="12" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
   </component>
 </project>

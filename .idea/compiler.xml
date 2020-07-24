@@ -9,7 +9,10 @@
         <module name="Mybatis_Dao" />
         <module name="Mybaits_XML" />
         <module name="Mybatis_Annotation" />
+        <module name="SpringAopXml" />
         <module name="Mybatis_Design" />
+        <module name="SpringAopAdviceTypeXml" />
+        <module name="SpringAopAnnotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,7 +20,10 @@
       <module name="Mybatis_Annotation" target="1.5" />
       <module name="Mybatis_Dao" target="6" />
       <module name="Mybatis_Design" target="6" />
-      <module name="mybatis_xml" target="1.5" />
+      <module name="SpringAopAdviceTypeXml" target="1.5" />
+      <module name="SpringAopAnnotation" target="1.5" />
+      <module name="SpringAopXml" target="1.5" />
+      <module name="SpringJdbcTemplate" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
